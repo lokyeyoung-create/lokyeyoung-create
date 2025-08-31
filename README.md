@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Lok Ye (lock yee)! 
 
-<!--
-**lokyeyoung-create/lokyeyoung-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a rising **third-year Computer Science student** concentrating in **Human Centered Computing**.  
+Previously, I worked at **State Street** as a Software Engineering co-op.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Working On
+- 💜 [**Kindred**](https://kindredtodo.com/) – Designing and building a productivity app that couples social media with productivity. 
+
+### Fun Passions
+- 🎨 Check out my artwork: [Artwork](https://www.lokye.dev/play)  
+
+### Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokye/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=ghost&logoColor=white)](https://www.lokye.dev/)
+
+---
