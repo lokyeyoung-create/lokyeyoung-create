@@ -12,7 +12,7 @@ Previously, I worked at **State Street** as a Software Engineering co-op.
 - 🎨 Check out my artwork: [Artwork](https://www.lokye.dev/play)  
 
 ### Let's Connect
-[![LinkedIn](www.linkedin.com/in/lok-ye-young-62ba3b25a)]
-[![Portfolio](https://www.lokye.dev/)
+[LinkedIn](www.linkedin.com/in/lok-ye-young-62ba3b25a)
+[Portfolio](https://www.lokye.dev/)
 
 ---
